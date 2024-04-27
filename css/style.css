@@ -10,10 +10,10 @@ section{
     position: relative;
     width: 100%;
     min-height: 100vh;
-    /*background:  linear-gradient(rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.1)), url(../img/donate.jpg);*/
     background:  linear-gradient(rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.1)), url(https://drive.google.com/uc?id=14vaoplucdm2Jas_b7SyPO_rvk3O-V2FD);
+    rgba(0, 0, 0, 0.1)), url(../img/donate.jpg);
+/*     background:  linear-gradient(rgba(0, 0, 0, 0.9),
+     rgba(0, 0, 0, 0.1)), url(https://drive.google.com/uc?id=14vaoplucdm2Jas_b7SyPO_rvk3O-V2FD); */
     background-size: cover;
     background-position:center;
     display:flex;
@@ -149,8 +149,8 @@ section {
   position: relative;
   width: 100%;
   min-height: 100vh;
-  /*background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)), url(../img/donation1.jpg);*/
-  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)), url(https://drive.google.com/uc?id=1JbF9ezBEIGPxaHOc3yUcJHplreEdHsKP);
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)), url(../img/donation1.jpg);
+/*   background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)), url(https://drive.google.com/uc?id=1JbF9ezBEIGPxaHOc3yUcJHplreEdHsKP); */
   background-size: cover;
   display: flex;
   background-repeat: no-repeat;
@@ -192,8 +192,8 @@ header .navigation.active {
   position: relative;
   width: 30px;
   height: 30px;
-  /*background: url(/img/menu.png);*/
-  background: url(https://drive.google.com/file/d/1GcDMHJK1q6WBb2grZonpCYDAMeo91Q_r/view?usp=sharing);
+  background: url(/img/menu.png);
+/*   background: url(https://drive.google.com/file/d/1GcDMHJK1q6WBb2grZonpCYDAMeo91Q_r/view?usp=sharing); */
   background-position: center;
   background-size: 30px;
   background-repeat: no-repeat;
@@ -210,10 +210,10 @@ header .navigation.active {
 /* Gallery css */
 
 .gallery-box{
-   /* background:linear-gradient(rgba(0, 0, 0, 0.8),
-    rgba(0, 0, 0, 0.8)), url(../img/donation11.jpeg);*/
-    background:linear-gradient(rgba(0, 0, 0, 0.8),
-    rgba(0, 0, 0, 0.8)), url(https://drive.google.com/uc?id=1Te8fYSCaKJ4Aya5OUDAWnZJTyWgDw3N4);
+   background:linear-gradient(rgba(0, 0, 0, 0.8), 
+    rgba(0, 0, 0, 0.8)), url(../img/donation11.jpeg);
+/*     background:linear-gradient(rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0.8)), url(https://drive.google.com/uc?id=1Te8fYSCaKJ4Aya5OUDAWnZJTyWgDw3N4); */
     position: relative;
     position: relative;
     width: 100%;
@@ -272,10 +272,10 @@ header .navigation.active {
     position: relative;
     width: 100%;
     min-height: 100vh;
-    /*background:  linear-gradient(rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.1)), url(./img/poor2.jpg);*/
-    background:  linear-gradient(rgba(0, 0, 0, 0.9),
-    rgba(0, 0, 0, 0.1)), url(https://drive.google.com/file/d/1fQcQ4PuaIKv6je735AZ4zsRlRwcmS6Jn/view?usp=sharing);
+    background:  linear-gradient(rgba(0, 0, 0, 0.9), 
+    rgba(0, 0, 0, 0.1)), url(./img/poor2.jpg);
+/*  background:  linear-gradient(rgba(0, 0, 0, 0.9), 
+    rgba(0, 0, 0, 0.1)), url(https://drive.google.com/file/d/1fQcQ4PuaIKv6je735AZ4zsRlRwcmS6Jn/view?usp=sharing); */
     background-size: cover;
     background-position:center;
     display:flex;
